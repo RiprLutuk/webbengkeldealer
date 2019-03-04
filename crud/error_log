@@ -1,0 +1,5 @@
+[06-May-2018 15:04:30 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mapscrip/bengkeldealer/crud/select.php on line 4
+[06-May-2018 15:04:30 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mapscrip/bengkeldealer/crud/select.php on line 4
+[06-May-2018 15:04:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mapscrip/bengkeldealer/crud/select.php on line 4
+[06-May-2018 15:04:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/mapscrip/bengkeldealer/crud/select.php on line 8
+[06-May-2018 15:04:30 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/mapscrip/bengkeldealer/crud/select.php on line 14

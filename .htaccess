@@ -1,0 +1,2 @@
+AuthName "bengkeldealer"
+AuthUserFile "/home/mapscrip/.htpasswds/bengkeldealer/passwd"
